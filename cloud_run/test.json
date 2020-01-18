@@ -1,0 +1,31 @@
+{
+  "columns": {
+    "RESOURCE": {
+      "value": "42085"
+    },
+    "MGR_ID": {
+      "value": "4125"
+    },
+    "ROLE_ROLLUP_1": {
+      "value": "118887"
+    },
+    "ROLE_ROLLUP_2": {
+      "value": "118888"
+    },
+    "ROLE_DEPTNAME": {
+      "value": "121108"
+    },
+    "ROLE_TITLE": {
+      "value": "120006"
+    },
+    "ROLE_FAMILY_DESC": {
+      "value": "311746"
+    },
+    "ROLE_FAMILY": {
+      "value": "118424"
+    },
+    "ROLE_CODE": {
+      "value": "120008"
+    }
+  }
+}
